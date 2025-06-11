@@ -19,7 +19,7 @@ const DefaultFooter = ({ dark }) => {
                       src={
                         dark
                           ? "assets/images/logos/footer-logo-white.png"
-                          : "assets/images/logos/weborialogo2.png"
+                          : "assets/images/logos/Qwebty.png"
                       }
                       alt="Logo"
                     />
@@ -60,7 +60,7 @@ const DefaultFooter = ({ dark }) => {
                   className="theme-btn style-three"
                   href="mailto:infoweboria@gmail.com"
                 >
-                  infoweboria@gmail.com <i className="far fa-arrow-right" />
+                  infoqwebty@gmail.com <i className="far fa-arrow-right" />
                 </a>
                 <a
                   className="theme-btn style-three phone-number"
@@ -138,7 +138,7 @@ const DefaultFooter = ({ dark }) => {
                 <p>
                   Copyright @2025,{" "}
                   <Link legacyBehavior href="/">
-                    <a>Weboria</a>
+                    <a>Qwebty</a>
                   </Link>{" "}
                   Tous droits réservés.
                 </p>

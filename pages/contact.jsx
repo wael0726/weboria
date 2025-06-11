@@ -69,7 +69,7 @@ const Contact = () => {
                         Lacordaire, Saint-Léonard Montréal, Canada
                       </p>
                       <a className="mailto" href="mailto:infoweboria@gmail.com">
-                        infoweboria@gmail.com
+                        infoqwebty@gmail.com
                       </a>
                       <br />
                       <a className="callto" href="callto:+1 (438) 308 1012">

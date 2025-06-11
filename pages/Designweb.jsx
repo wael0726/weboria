@@ -118,7 +118,7 @@ const Designweb = () => {
                 </div>
                 <div className="content">
                   <p>
-                    Weboria conçoit des sites web élégants et percutants, pensés pour captiver vos visiteurs tout en offrant une expérience fluide sur tous les supports.
+                    Qwebty conçoit des sites web élégants et percutants, pensés pour captiver vos visiteurs tout en offrant une expérience fluide sur tous les supports.
                   </p>
                   <Link legacyBehavior href="/about">
                     <a className="read-more mt-10">

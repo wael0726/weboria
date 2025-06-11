@@ -28,7 +28,7 @@ export default function App({ Component, pageProps }) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         {/* Title */}
-        <title>Weboria | Agence Web</title>
+        <title>Qwebty | Agence Web</title>
         {/* Favicon Icon */}
         <link
           rel="shortcut icon"

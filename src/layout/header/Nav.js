@@ -10,7 +10,7 @@ const Nav = ({ singleMenu }) => {
             <Link legacyBehavior href="/">
               <a>
                 <img
-                  src="assets/images/logos/weborialogo4.png"
+                  src="assets/images/logos/Qwebty.png"
                   alt="Logo"
                   title="Logo"
                 />

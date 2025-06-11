@@ -33,7 +33,7 @@ const Index = () => {
             <div className="col-xl-3 col-lg-4">
               <div className="hero-two-content mb-50 wow fadeInRight delay-0-2s">
                 <p>
-                  Chez Weboria, on cultive bien plus que votre image en ligne : on crée des sites qui vous ressemblent.
+                  Chez Qwebty, on cultive bien plus que votre image en ligne : on crée des sites qui vous ressemblent.
                 </p>
                 <img
                   className="mt-20"
@@ -120,7 +120,7 @@ const Index = () => {
                 </div>
                 <div className="text-left-border mt-60 mb-65 wow fadeInUp delay-0-2s">
                   <p>
-                    Chez Weboria, chaque ligne de code est pensée pour concrétiser vos idées. Notre mission : concevoir des sites web modernes, performants et à votre image. Passionnés, créatifs et engagés, nous vous accompagnons dans chaque étape de votre transformation numérique.
+                    Chez Qwebty, chaque ligne de code est pensée pour concrétiser vos idées. Notre mission : concevoir des sites web modernes, performants et à votre image. Passionnés, créatifs et engagés, nous vous accompagnons dans chaque étape de votre transformation numérique.
                   </p>
                 </div>
                 <div className="about-counter">

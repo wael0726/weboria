@@ -16,7 +16,7 @@ const DefaultHeader = ({ singleMenu, dark }) => {
                       src={
                         dark
                           ? "assets/images/logos/logo-white.png"
-                          : "assets/images/logos/weborialogo4.png"
+                          : "assets/images/logos/Qwebty.png"
                       }
                       alt="Logo"
                       title="Logo"
