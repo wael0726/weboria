@@ -70,10 +70,10 @@ const Faqs = () => {
 
     emailjs
       .sendForm(
-        "service_weboria",
-        "template_weboria",
+        "service_qwebty",
+        "template_qwebty",
         formRef.current,
-        "fqFetRNUL8JSkziMq"
+        "OlfatqJ8twkIM9WXG"
       )
       .then(
         (result) => {
